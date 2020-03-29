@@ -6,8 +6,8 @@ import GameScene from './scenes/GameScene'
 export default {
   type: Phaser.AUTO,
   parent: 'content',
-  width: 800,
-  height: 600,
+  width: 640,
+  height: 360,
   scene: [
     GameScene
   ]

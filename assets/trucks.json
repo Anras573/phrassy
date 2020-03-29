@@ -1,0 +1,112 @@
+[
+  // Road 1
+{
+    scene: this,
+    x: 65,
+    y: gameHeight / 2 - 3,
+    texture: 'truckDown',
+    velocity: road1Velocity
+  }),
+{
+    scene: this,
+    x: 65,
+    y: gameHeight - 80,
+    texture: 'truckDown',
+    velocity: road1Velocity
+  }),
+{
+    scene: this,
+    x: 65,
+    y: 80,
+    texture: 'truckDown',
+    velocity: road1Velocity
+  }),
+  // Road 2
+{
+    scene: this,
+    x: 190,
+    y: gameHeight / 2 - 3,
+    texture: 'truckUp',
+    velocity: road2Velocity
+  }),
+{
+    scene: this,
+    x: 190,
+    y: gameHeight - 80,
+    texture: 'truckUp',
+    velocity: road2Velocity
+  }),
+{
+    scene: this,
+    x: 190,
+    y: 80,
+    texture: 'truckUp',
+    velocity: road2Velocity
+  }),
+  // Road 3
+{
+    scene: this,
+    x: 320,
+    y: gameHeight / 2 - 3,
+    texture: 'truckDown',
+    velocity: road3Velocity
+  }),
+{
+    scene: this,
+    x: 320,
+    y: gameHeight - 80,
+    texture: 'truckDown',
+    velocity: road3Velocity
+  }),
+{
+    scene: this,
+    x: 320,
+    y: 80,
+    texture: 'truckDown',
+    velocity: road3Velocity
+  }),
+  // Road 4
+{
+    scene: this,
+    x: 450,
+    y: gameHeight / 2 - 3,
+    texture: 'truckUp',
+    velocity: road4Velocity
+  }),
+{
+    scene: this,
+    x: 450,
+    y: gameHeight - 80,
+    texture: 'truckUp',
+    velocity: road4Velocity
+  }),
+{
+    scene: this,
+    x: 450,
+    y: 80,
+    texture: 'truckUp',
+    velocity: road4Velocity
+  }),
+  // Road 5
+{
+    scene: this,
+    x: 575,
+    y: gameHeight / 2 - 3,
+    texture: 'truckDown',
+    velocity: road5Velocity
+  }),
+{
+    scene: this,
+    x: 575,
+    y: gameHeight - 80,
+    texture: 'truckDown',
+    velocity: road5Velocity
+  }),
+{
+    scene: this,
+    x: 575,
+    y: 80,
+    texture: 'truckDown',
+    velocity: road5Velocity
+  })
+]
