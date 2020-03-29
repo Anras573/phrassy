@@ -1,4 +1,4 @@
-# Phaser Boostrap ![Github Action build badge](https://github.com/Anras573/phrassy/workflows/Build/badge.svg)
+# Phrassy ![Github Action build badge](https://github.com/Anras573/phrassy/workflows/Build/badge.svg)
 
 A Frogger/Crossy Road style of game made with Phaser 3. The name is a mixture of Crossy and Phaser.
 
